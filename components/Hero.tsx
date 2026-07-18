@@ -28,8 +28,8 @@ const Hero: React.FC = () => {
         </h1>
 
         <p className="text-gray-300 text-lg md:text-xl max-w-2xl mx-auto mb-10 leading-relaxed">
-          Master the ancient art of Shaolin Kung Fu and modern Mixed Martial Arts right here in Kandivali. 
-          Unlock your potential, build confidence, and learn self-defense.
+          Kandivali East's top-rated martial arts academy in Lokhandwala, Mumbai. Master Shaolin Kung Fu,
+          MMA & self-defense — for kids and adults. Join 300+ trained students. <span className="text-shaolin-gold font-semibold">First class is FREE.</span>
         </p>
 
         <div className="flex flex-col sm:flex-row items-center justify-center gap-4">

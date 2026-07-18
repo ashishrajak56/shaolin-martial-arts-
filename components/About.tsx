@@ -72,7 +72,7 @@ const About: React.FC = () => {
             {/* Replaced with a placeholder that represents the split image you uploaded */}
             <img 
               src="https://images.unsplash.com/photo-1544367563-12123d8965cd?q=80&w=800&auto=format&fit=crop" 
-              alt="Students training in dojo" 
+              alt="Students training martial arts at Shaolin Academy Kandivali East Mumbai"
               className="relative rounded-lg shadow-2xl border-2 border-shaolin-gray z-10 grayscale hover:grayscale-0 transition-all duration-700"
             />
             {/* Floating Stats Card */}

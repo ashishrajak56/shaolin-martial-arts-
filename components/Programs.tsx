@@ -48,9 +48,9 @@ const Programs: React.FC = () => {
                     OUR SPECIALTY
                   </div>
                 )}
-                <img 
-                  src={program.image} 
-                  alt={program.title} 
+                <img
+                  src={program.image}
+                  alt={`${program.title} classes in Kandivali East Lokhandwala Mumbai`}
                   className="w-full h-full object-cover transform group-hover:scale-110 transition-transform duration-700 grayscale group-hover:grayscale-0"
                 />
               </div>
